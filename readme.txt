@@ -4,5 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick AND simple.
 Git can merge branches.
-Git bug branch.
 Git dyf.
+Git zwj
